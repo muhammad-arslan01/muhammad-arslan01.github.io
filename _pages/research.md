@@ -6,17 +6,20 @@ published: true
 ---
 
 ## Research
-My research interests fall in three macro-areas of computer science and engineering:
-- distributed systems
-- intelligent and autonomous systems
-- algorithms and optimization
+My research interests fall in four areas of Economics:
+- international finance and trade
+- mathematical economics
+- microeconomics
+- macroeconomics
 
 Focuses I have interested on are:
-- Wireless Sensor Networks
-- Edge Computing
+- Monetary and Fiscal Policy
+- Economic Growth
 - [Edge Intelligence]({{site.baseurl}}/research/edge-ai)
-- Federated Learning
-- Autonomous Vehicles
-- Reinforcement Learning
-- Swarm Intelligence
-- Genetic Algorithms
+- Agricultural Growth
+- Impact of Education
+- Stock Prices and Inflation
+- Financial Leverage
+- External Debt
+- Economy of Pakistan
+- Human Capital
